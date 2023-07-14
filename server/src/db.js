@@ -42,7 +42,7 @@ sequelize.models = Object.fromEntries(capsEntries);
 
 
 
-
+//Bloque uno el .env no no sirve si no esta en la misma ruta que el packje.json
 
 
 // Aca vendrian las relaciones
