@@ -8,6 +8,4 @@ CountryRouter.get('/', getCountryByName)
 
 CountryRouter.get('/:id', getCountryId)
 
-CountryRouter.get('/', getCountryByName)
-
 module.exports = CountryRouter
